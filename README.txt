@@ -14,3 +14,5 @@ B. MENGGUNAKAN WEB PROGRAMIZ C++ COMPILER
    5. Masukkan Panjang dan lebar persegi yang ingin kamu hitung
    6. Klik enter
    7. Code excecution successful
+
+LINK YOUTUBE FOR GUIDE: https://youtu.be/kWeShnel-ko
